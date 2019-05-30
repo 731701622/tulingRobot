@@ -1,4 +1,4 @@
-package test.wkx.com.tulingrobot;
+package test.wkx.com.tulingrobot.Fragment;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;

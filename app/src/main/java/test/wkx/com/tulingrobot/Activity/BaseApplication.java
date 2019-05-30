@@ -1,4 +1,4 @@
-package test.wkx.com.tulingrobot;
+package test.wkx.com.tulingrobot.Activity;
 
 import android.app.Application;
 import android.content.Context;

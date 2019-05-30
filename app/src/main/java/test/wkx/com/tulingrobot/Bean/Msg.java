@@ -1,4 +1,4 @@
-package test.wkx.com.tulingrobot;
+package test.wkx.com.tulingrobot.Bean;
 
 
 public class Msg {

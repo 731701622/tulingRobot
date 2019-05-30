@@ -1,4 +1,4 @@
-package test.wkx.com.tulingrobot;
+package test.wkx.com.tulingrobot.Fragment;
 
 
 import android.os.Bundle;
@@ -22,6 +22,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
+import test.wkx.com.tulingrobot.Activity.BaseApplication;
+import test.wkx.com.tulingrobot.Bean.Msg;
+import test.wkx.com.tulingrobot.Adapter.MsgAdapter;
+import test.wkx.com.tulingrobot.R;
 
 public class MsgFragment extends BaseFragment
 {

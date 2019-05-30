@@ -1,35 +1,22 @@
-package test.wkx.com.tulingrobot;
+package test.wkx.com.tulingrobot.Activity;
 
 import android.annotation.TargetApi;
 import android.content.Context;
 import android.os.Build;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
-import android.view.ViewGroup;
 import android.view.inputmethod.InputMethodManager;
-import android.widget.Button;
 import android.widget.EditText;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
-import java.net.URL;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+import test.wkx.com.tulingrobot.Fragment.HostFragment;
+import test.wkx.com.tulingrobot.Fragment.MsgFragment;
+import test.wkx.com.tulingrobot.R;
 
 public class MainActivity extends AppCompatActivity{
 

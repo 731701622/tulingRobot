@@ -1,4 +1,4 @@
-package test.wkx.com.tulingrobot;
+package test.wkx.com.tulingrobot.Adapter;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -8,6 +8,9 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import java.util.List;
+
+import test.wkx.com.tulingrobot.Bean.Msg;
+import test.wkx.com.tulingrobot.R;
 
 public class MsgAdapter extends RecyclerView.Adapter<MsgAdapter.ViewHolder> {
 
