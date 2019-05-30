@@ -14,7 +14,7 @@
             android:id="@+id/iv"
             android:layout_width="50dp"
             android:layout_height="50dp"
-            android:src="@drawable/robot"/>
+            android:src="@drawable/robot1"/>
 
         <TextView
             android:id="@+id/left_msg"
@@ -41,7 +41,7 @@
         <ImageView
             android:layout_width="50dp"
             android:layout_height="50dp"
-            android:src="@drawable/visitor" />
+            android:src="@drawable/user" />
 
     </LinearLayout>
 
